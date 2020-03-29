@@ -1,3 +1,9 @@
+Tools I used：
+* Visual Studio Code: for reading the source code(Mainly assembly) and change it. 
+* Understand: read the other source code and annotate with it. 
+
+Original README content: 
+
 INTRODUCTION
 ============
 ucore os labs was used as OS Experiments in OS Course Of Dept. of Computer Science & Technology, Tsinghua University.
